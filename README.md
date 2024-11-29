@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Pavankola76
+- 👀 I’m interested in data analysis, machine learning and Artificail intelligence.
+- 🌱 I’m currently learning MLOps
+- 💞️ I’m looking to collaborate on open-source projects related to data science.
+- 📫 How to reach me: kppavan1510@gmail.com or connect with me on [LinkedIn] www.linkedin.com/in/kola-pavan-17197a223
+- 😄 Pronouns: He/Him.
